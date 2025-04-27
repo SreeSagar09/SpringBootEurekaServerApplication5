@@ -1,0 +1,7 @@
+A Program Netflix Eureka R&D server and load balancing using @FeignClient annotation:
+Programs:
+* SpringBootEurekaServerApplication5Application.java
+Notes:
+
+Output:
+Eureka Server url: http://localhost:8761
